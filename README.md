@@ -1,6 +1,6 @@
 # Hi there, I'm Pollob Kumar! 👋
 
-<img src="![561KB (20241029_145133)](https://github.com/user-attachments/assets/bebdfe3c-b1cc-4b6e-8a13-53c4368e46d7)" width="150" height="150" alt="Pollob Kumar" align="left">
+<img src="https://github.com/rksridoy427/rksridoy427/blob/main/561KB%20(20241029_145133).jpg" width="150" height="150" alt="Pollob Kumar" align="left">
 
 I'm a passionate Computer Science and Engineering (CSE) student at **Pundra University of Science & Technology**, with an expected graduation in **2026**. I love working on software development, algorithms, and artificial intelligence. Welcome to my GitHub profile!
 
