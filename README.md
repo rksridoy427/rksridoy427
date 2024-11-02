@@ -45,7 +45,7 @@ _For more projects, check out my [repositories](https://github.com/yourusername?
 
 ## 📈 GitHub Stats
 
-![Pollob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pollob-Kumar&show_icons=true&theme=radical)
+![Pollob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rksridoy427&show_icons=true&theme=radical)
 
 ---
 
